@@ -1,0 +1,31 @@
+Physical_Quantity,Value,Unit
+Potential Type,Linear Electric Field,
+Spatial Grid Points Nx,1001,
+Requested Time Steps Nt,10000,
+Completed Time Steps,10000,
+Domain Length,4,nm
+Wavelength,0.16,nm
+Wavepacket Width,0.16,nm
+Initial Position x0/L,0.25,
+Potential Height,-600,eV
+Barrier Width,0.48,nm
+Well Width,0.28,nm
+Time Step,2.76415767589051e-20,s
+Final Simulation Time,2.76415767589051e-16,s
+Total Probability,1.00006187841945,
+Reflection Probability,NaN,
+Transmission Probability,NaN,
+Interaction Probability,NaN,
+Central-Well Probability,NaN,
+Mean Position,1.24406787053634,nm
+Mean Momentum,-2.49775238175776e-24,kg m/s
+Mean Velocity,-2741955.63677075,m/s
+Theoretical Kinetic Energy,58.7547103323244,eV
+Initial Kinetic Energy,59.3689182395836,eV
+Final Kinetic Energy,22.171807266711,eV
+Potential Energy,-413.426946471219,eV
+Total Energy,-391.255139204508,eV
+Position Uncertainty,1.80496551877399e-10,m
+Momentum Uncertainty,4.82817306007758e-25,kg m/s
+Uncertainty Product,8.71468589211352e-35,kg m^2/s
+hbar / 2,5.27285863e-35,kg m^2/s
