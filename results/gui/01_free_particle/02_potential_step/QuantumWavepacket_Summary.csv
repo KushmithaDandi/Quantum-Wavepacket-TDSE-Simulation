@@ -1,0 +1,31 @@
+Physical_Quantity,Value,Unit
+Potential Type,Potential Step,
+Spatial Grid Points Nx,1001,
+Requested Time Steps Nt,10000,
+Completed Time Steps,10000,
+Domain Length,4,nm
+Wavelength,0.16,nm
+Wavepacket Width,0.16,nm
+Initial Position x0/L,0.25,
+Potential Height,-600,eV
+Barrier Width,0.48,nm
+Well Width,0.28,nm
+Time Step,2.76415767589051e-20,s
+Final Simulation Time,2.76415767589051e-16,s
+Total Probability,0.999798624956152,
+Reflection Probability,0.359924458052214,
+Transmission Probability,0.639280619476526,
+Interaction Probability,0,
+Central-Well Probability,NaN,
+Mean Position,2.48232642833547,nm
+Mean Momentum,7.64344376419779e-24,kg m/s
+Mean Velocity,8390737.1549911,m/s
+Theoretical Kinetic Energy,58.7547103323244,eV
+Initial Kinetic Energy,59.3689182395836,eV
+Final Kinetic Energy,443.049894599979,eV
+Potential Energy,-383.690383704247,eV
+Total Energy,59.3595108957326,eV
+Position Uncertainty,6.43263085037729e-10,m
+Momentum Uncertainty,8.42036889695122e-24,kg m/s
+Uncertainty Product,5.41651247380858e-33,kg m^2/s
+hbar / 2,5.27285863e-35,kg m^2/s
