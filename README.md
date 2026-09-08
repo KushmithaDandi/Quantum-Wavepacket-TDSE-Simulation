@@ -77,7 +77,7 @@ Developed and tested using:
 3. Ensure the required `.m` files are available on the MATLAB path.
 4. Run the main GUI file:
 
-   `QuantumWavepacketGUI_SourceAligned_V3`
+   `QuantumWavepacketGUI_Source`
 
 5. Select the required potential structure and simulation parameters.
 6. Run the simulation and examine the generated wavefunction, probability-density, transport and observable results.
