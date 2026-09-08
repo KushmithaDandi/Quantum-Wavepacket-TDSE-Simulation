@@ -1,0 +1,31 @@
+Physical_Quantity,Value,Unit
+Potential Type,Parabolic Well,
+Spatial Grid Points Nx,1001,
+Requested Time Steps Nt,10000,
+Completed Time Steps,10000,
+Domain Length,4,nm
+Wavelength,0.16,nm
+Wavepacket Width,0.16,nm
+Initial Position x0/L,0.25,
+Potential Height,-600,eV
+Barrier Width,0.48,nm
+Well Width,0.28,nm
+Time Step,2.76415767589051e-20,s
+Final Simulation Time,2.76415767589051e-16,s
+Total Probability,1.0000668002951,
+Reflection Probability,NaN,
+Transmission Probability,NaN,
+Interaction Probability,NaN,
+Central-Well Probability,NaN,
+Mean Position,2.98068584127693,nm
+Mean Momentum,4.35932434625327e-24,kg m/s
+Mean Velocity,4785532.00510184,m/s
+Theoretical Kinetic Energy,58.7547103323244,eV
+Initial Kinetic Energy,59.3689182395836,eV
+Final Kinetic Energy,67.3900643685604,eV
+Potential Energy,-454.925083703304,eV
+Total Energy,-387.535019334744,eV
+Position Uncertainty,7.36300846366033e-11,m
+Momentum Uncertainty,8.168446257118e-25,kg m/s
+Uncertainty Product,6.01443389261144e-35,kg m^2/s
+hbar / 2,5.27285863e-35,kg m^2/s
