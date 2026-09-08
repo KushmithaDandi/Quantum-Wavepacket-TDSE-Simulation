@@ -82,6 +82,22 @@ Developed and tested using:
 5. Select the required potential structure and simulation parameters.
 6. Run the simulation and examine the generated wavefunction, probability-density, transport and observable results.
 
+## Repository Structure
+
+The repository is organised into the MATLAB source code and simulation results for the six implemented potential-energy configurations.
+
+- `QuantumWavepacketGUI_Source.m` - Interactive MATLAB GUI for TDSE simulation, visualisation and numerical analysis.
+- `se_fdtd_01.m` - Baseline finite-difference time-development implementation of the one-dimensional TDSE.
+- `simpson1d.m` - Numerical integration function implementing Simpson's 1/3 rule.
+- `results/01_free_particle/` - Free-particle simulation results and numerical data.
+- `results/02_potential_step/` - Potential-step simulation results and numerical data.
+- `results/03_linear_potential/` - Linear-potential simulation results and numerical data.
+- `results/04_single_rectangular_hill_well/` - Single rectangular hill/well simulation results and numerical data.
+- `results/05_parabolic_well/` - Parabolic-well simulation results and numerical data.
+- `results/06_double_barrier/` - Double-barrier simulation results and numerical data.
+
+Each results directory contains the corresponding MATLAB simulation outputs, GUI-generated visualisations and exported numerical data where applicable.
+
 ## Academic Project
 
 **Project Title:** The Simulation of Time-Dependent Quantum Wavepacket Motion in Nanoelectronic Devices
